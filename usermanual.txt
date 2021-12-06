@@ -1,0 +1,24 @@
+Written by Hilarry on 05th Dec 2021, 11:34:36
+
+This is the first ever digital clock that I program purposely to make one that looks like a bomb but is not xD
+
+Button 1 :
+- change mode from clock view to setAlarm,
+- click once to set the minutes
+- click again to set the hours
+- click again to return to clock view
+
+Button 2 :
+- click multiple times to set the minutes / hours you desire to
+
+Button 3 (rocker switch) :
+- turn off the buzzer
+
+Button 4 :
+- reset the alarm back to 00:00
+
+side note : make sure to turn off the rocker switch to avoid alarm waking you up at unwanted times
+
+features to be added:
+- power saving mode : turn off display, let the rtc do its work
+- vibrate modes
